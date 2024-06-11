@@ -9,7 +9,7 @@
 
 ## Steps 
 
-**Step1-**
+
 ``` 
 Upon downloading the file and opening it we can see multiple designs ligned up in a row and from the hint we can assume they represent our PICOCTF code as they also include curly brackets as seen below
 
