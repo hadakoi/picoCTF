@@ -11,18 +11,12 @@
 
 
 ``` 
-Upon downloading the file and opening it we can see multiple designs ligned up in a row and from the hint we can assume they represent our PICOCTF code as they also include curly brackets as seen below
-
-
-<img width="821" alt="flag (1)" src="https://github.com/hadakoi/MIST-work/assets/148073897/ec248620-30bc-418f-9c4f-259174440625">
-
-
+Upon downloading the file and opening it we can see multiple designs ligned up in a row and from the hint we can assume they represent our PICOCTF code as they also include curly brackets as seen much below
 hence a quick reverse image search we can see that these are naval flags.
-
-
-![flag-key](https://github.com/hadakoi/MIST-work/assets/148073897/0031e137-b268-4584-86ce-0445ba85578b)
-
 
 From this we can tell our PicoCTF flag is infact -> PICOCTF{F1AG5AND5TUFF}
 
 ```
+
+![flag-key](https://github.com/hadakoi/MIST-work/assets/148073897/d4a9a61d-c096-48d2-96fa-8528ad6528b2)
+<img width="821" alt="flag (1)" src="https://github.com/hadakoi/MIST-work/assets/148073897/aadf03bd-88d5-462b-a6b0-bf317a4f63ca">
