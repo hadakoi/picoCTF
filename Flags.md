@@ -17,6 +17,7 @@ hence a quick reverse image search we can see that these are naval flags.
 From this we can tell our PicoCTF flag is infact -> PICOCTF{F1AG5AND5TUFF}
 
 ```
+<img width="821" alt="flag (1)" src="https://github.com/hadakoi/MIST-work/assets/148073897/aadf03bd-88d5-462b-a6b0-bf317a4f63ca">
 
 ![flag-key](https://github.com/hadakoi/MIST-work/assets/148073897/d4a9a61d-c096-48d2-96fa-8528ad6528b2)
-<img width="821" alt="flag (1)" src="https://github.com/hadakoi/MIST-work/assets/148073897/aadf03bd-88d5-462b-a6b0-bf317a4f63ca">
+
