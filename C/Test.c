@@ -1,6 +1,8 @@
 #include <stdio.h>
-
+ 
 int main() {
+
+    // this is an addition ;-;
     int x, y;
     y = 0;
     for (x = 0; y < 23; x++) {
