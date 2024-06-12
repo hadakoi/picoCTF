@@ -19,3 +19,6 @@ and yes frequency attacks are infact cool.
 
 ```
 
+
+![Screenshot 2024-06-12 180342](https://github.com/hadakoi/MIST/assets/148073897/bd529229-61e5-49a1-9063-ca8382bd0a7d)
+
