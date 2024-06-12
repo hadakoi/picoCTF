@@ -20,6 +20,10 @@ From this we can tell our PicoCTF flag is infact -> PICOCTF{F1AG5AND5TUFF}
 ```
 
 <img width="821" alt="flag (1)" src="https://github.com/hadakoi/MIST/assets/148073897/44f04056-3297-4d51-86eb-19846c1496ba">
+
+
 ![Screenshot 2024-06-12 125208](https://github.com/hadakoi/MIST/assets/148073897/9ed5af04-4ea7-4117-b7a6-e5c682149996)
+
+
 ![istockphoto-685863978-1024x1024](https://github.com/hadakoi/MIST/assets/148073897/a48c7f93-7a30-4feb-9bcc-1a85a7698d88)
 
