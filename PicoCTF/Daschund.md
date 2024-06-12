@@ -14,3 +14,4 @@ using a linux vm session connect to the nc mercury.picoctf.net 30761 where we ar
 From Here Unable to Solve.
 ```
 
+![VirtualBox_Ubuntu Linux_12_06_2024_18_22_09](https://github.com/hadakoi/MIST/assets/148073897/befc4fae-1039-487e-8035-8621d3bf64b7)
