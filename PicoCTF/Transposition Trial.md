@@ -8,7 +8,8 @@
 ## Steps 
 
 
-``` 
+```
+
 our hint was Split the message up into blocks of 3 and see how the first block is scrambled.
 Upon downloading the txt file we can see a line of text "heTfl g as iicpCTo{7F4NRP051N5_16_35P3X51N3_V091B0AE}2"
  
@@ -16,4 +17,11 @@ From knowing it was split into blocks of 3 hence we use 3 columns.We also know h
 As we know the first word is 3 letters wrong we must use the first row to figure out how it was scrambled and we see the letters - H E T. Upon rearranging this for a word we get The and can hence find the column pattern of the scramble to be 2 -> 0 -> 1
 
 Hence after using this pattern we can see our word ends up becoming The flag is picoCTF{7R4N5P051N6_15_3XP3N51V3_109AB02E}
+
 ```
+
+![Screenshot 2024-06-12 164329](https://github.com/hadakoi/MIST/assets/148073897/f5eb11d8-bd36-43d7-aac4-e3b5c2eb0082)
+
+
+
+![code pattern](https://github.com/hadakoi/MIST/assets/148073897/64d5368c-b84e-4b94-bc5e-35d4fcb462e1)
