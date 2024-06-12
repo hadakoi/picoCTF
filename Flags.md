@@ -21,3 +21,4 @@ From this we can tell our PicoCTF flag is infact -> PICOCTF{F1AG5AND5TUFF}
 
 ![flag-key](https://github.com/hadakoi/MIST-work/assets/148073897/d4a9a61d-c096-48d2-96fa-8528ad6528b2)
 
+![Screenshot 2024-06-12 125208](https://github.com/hadakoi/MIST-work/assets/148073897/bcc2109c-7136-4dcf-9aa7-b31361598135)
