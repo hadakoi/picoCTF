@@ -1,4 +1,4 @@
-<<<<<<< HEAD:PICOCTF/Flags.md
+
 # CTF - Flags
 
 ## [Question Link](https://play.picoctf.org/practice/challenge/31?page=1&search=Flags)
